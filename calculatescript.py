@@ -86,9 +86,9 @@ totalpath=os.path.join(currentdirectory, 'calculate.py')
 
 print(f'\nTotal path is {totalpath}')
 # runscript for mac=
-# python3 calculate.py
+# python3 calculatescript.py
 # runscript for windows=
-# python calculate.py
+# python calculatescript.py
 
 def main():
     if len(sys.argv)==2 or len(sys.argv)==3 :
